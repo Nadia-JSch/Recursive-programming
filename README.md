@@ -8,7 +8,7 @@ Methods within the three files demonstrate simple cases where recursive logic ap
 
 ### Recursion.java
 Contains two recursive methods:
-- revString(String text) that takes the string passed to it and reverses it by creating subtrings for each recursive call made.
+- revString(String text) that takes the string passed to it and reverses it by creating substrings for each recursive call made.
 - fibonacci(int n) will print out the first n number of Fibonacci numbers (a number pattern starting from 0, where the following numbers are a sum of the previous two).
 
 #### Screenshot
@@ -21,9 +21,15 @@ Finds the Greatest Common Divisor of two given numbers by using the Euclidean eq
 ![GCD output](https://github.com/Nadia-JSch/Recursive-programming/blob/master/GCD%20screenshot.png)
 
 ### SearchReplace.java
-The user enters some text, then chooses a part of that text to be replaced by a new substring. The method calls itself until the original text has all of the substring within it.
+The user enters some text, and then chooses a part of that text to be replaced by a new substring. The method calls itself until the original text has all of the substring within it.
 
 #### Screenshot
 ![search replace screenshot](https://github.com/Nadia-JSch/Recursive-programming/blob/master/search%20replace%20recursion%20screenshot.png)
 
+## Authors
 
+Nadia Schmidtke [contact](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Recursive-programming/blob/master/LICENSE).
