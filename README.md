@@ -26,9 +26,9 @@ The user enters some text, and then chooses a part of that text to be replaced b
 #### Screenshot
 ![search replace screenshot](https://github.com/Nadia-JSch/Recursive-programming/blob/master/search%20replace%20recursion%20screenshot.png)
 
-## Authors
+## Author
 
-Nadia Schmidtke [contact](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+Nadia Schmidtke [contact](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
 
 ## License
 
